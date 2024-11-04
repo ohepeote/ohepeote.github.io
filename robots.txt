@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohepeote.github.io/KXr/sitemap_index.txt
+Sitemap: https://ohepeote.github.io/VQq/sitemap_index.txt
+Sitemap: https://ohepeote.github.io/hTA/sitemap_index.txt
+Sitemap: https://ohepeote.github.io/wVb/sitemap_index.txt
